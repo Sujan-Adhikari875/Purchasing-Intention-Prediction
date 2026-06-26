@@ -1,8 +1,6 @@
-# Purchasing-Intention-Prediction
-
 # 🛍️ Shop Smart: Online Shoppers Purchasing Intention Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 This project predicts whether an online visitor will make a purchase using a **Decision Tree Classifier**. The model is trained on the Online Shoppers Purchasing Intention dataset and optimized using **GridSearchCV** with cross-validation.
 
@@ -10,7 +8,7 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze online shopper behavior.
 * Predict customer purchase intention.
@@ -19,7 +17,7 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -30,7 +28,7 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 ---
 
-## 📂 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ### 1. Data Cleaning
 
@@ -75,7 +73,7 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 ---
 
-## 📌 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis
@@ -90,7 +88,7 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Random Forest Classifier
 * XGBoost
@@ -100,10 +98,10 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Rajeev**
+**Adhikari Sujan*
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
-If you found this project helpful, consider giving it a ⭐ on GitHub!
+
