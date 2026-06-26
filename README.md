@@ -2,9 +2,7 @@
 
 ##  Project Overview
 
-This project predicts whether an online visitor will make a purchase using a **Decision Tree Classifier**. The model is trained on the Online Shoppers Purchasing Intention dataset and optimized using **GridSearchCV** with cross-validation.
-
-The project demonstrates an end-to-end machine learning workflow, including data preprocessing, feature engineering, model training, hyperparameter tuning, and performance evaluation.
+This project uses a Decision Tree Classifier to predict whether an online visitor will make a purchase. It includes data preprocessing, feature engineering, model training, GridSearchCV for hyperparameter tuning, and model evaluation.
 
 ---
 
