@@ -67,9 +67,21 @@ The project demonstrates an end-to-end machine learning workflow, including data
 
 | Metric    | Score      |
 | --------- | ---------- |
-| Accuracy  | **90.50%** |
-| Precision | **75.39%** |
-| F1 Score  | **62.46%** |
+| Accuracy  | **90.00%** |
+| Precision | **67.66%** |
+| F1-Score  | **64.94%** |
+
+### Confusion Matrix
+
+```
+[[1971 108]
+ [ 136 226]]
+```
+
+### Model Summary
+
+The Decision Tree Classifier achieved an overall accuracy of **90.00%**. The model correctly identified **1,971 non-purchasing sessions** and **226 purchasing sessions**. While the model maintained good overall performance, there is still room to improve the detection of purchasing customers, making ensemble methods such as Random Forest or XGBoost promising future enhancements.
+
 
 ---
 
